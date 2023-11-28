@@ -29,6 +29,11 @@ Now go back to the base url, inorder to fetch the weather data, you have to appe
 Now you can see the json file.
 
 # Screenshots
+![Screenshot 2023-11-28 194212](https://github.com/vinutaR/Backend-API-for-Weather-Forecast/assets/150257069/f7578411-785e-42e4-828f-cfd4ab4f809b)
+![2023-11-28 (8)](https://github.com/vinutaR/Backend-API-for-Weather-Forecast/assets/150257069/fb469d03-e2cc-4431-bf3f-e883669725cd)
+![2023-11-28 (9)](https://github.com/vinutaR/Backend-API-for-Weather-Forecast/assets/150257069/cb1cd0ae-2e7f-4b78-9254-a7cee5ec4855)
+![2023-11-28 (10)](https://github.com/vinutaR/Backend-API-for-Weather-Forecast/assets/150257069/16ad23c0-2982-4298-813d-e1d872d19026)
+![2023-11-28 (11)](https://github.com/vinutaR/Backend-API-for-Weather-Forecast/assets/150257069/63de2c4e-15e3-4060-ad75-eeaa28ae1347)
 
 
 
